@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /john-wickk-live/
+Sitemap: https://eliteprogrammer111.github.io/john-wickk-live/sitemap.xml
