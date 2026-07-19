@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://engineering-treating-mood-triangle.trycloudflare.com",
+  "liveBackend": "https://destinations-julie-neighbor-builder.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://engineering-treating-mood-triangle.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://destinations-julie-neighbor-builder.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://engineering-treating-mood-triangle.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://destinations-julie-neighbor-builder.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://engineering-treating-mood-triangle.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://destinations-julie-neighbor-builder.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://engineering-treating-mood-triangle.trycloudflare.com/order",
-  "documentation": "https://engineering-treating-mood-triangle.trycloudflare.com/docs",
-  "health": "https://engineering-treating-mood-triangle.trycloudflare.com/health"
+  "browserCheckout": "https://destinations-julie-neighbor-builder.trycloudflare.com/order",
+  "documentation": "https://destinations-julie-neighbor-builder.trycloudflare.com/docs",
+  "health": "https://destinations-julie-neighbor-builder.trycloudflare.com/health"
 }
