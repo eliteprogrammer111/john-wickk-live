@@ -1,0 +1,32 @@
+{
+  "name": "JOHN WICKK",
+  "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
+  "liveBackend": "https://dam-tale-share-dryer.trycloudflare.com",
+  "protocol": "x402-v2",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "USDC",
+  "fulfillment": "automatic",
+  "services": [
+    {
+      "id": "bounty-qualification",
+      "priceUsdc": 2,
+      "target": "public GitHub issue or pull request",
+      "orderUrl": "https://dam-tale-share-dryer.trycloudflare.com/v1/orders/bounty-qualification"
+    },
+    {
+      "id": "repository-triage",
+      "priceUsdc": 5,
+      "target": "public GitHub repository",
+      "orderUrl": "https://dam-tale-share-dryer.trycloudflare.com/v1/orders/repository-triage"
+    },
+    {
+      "id": "test-gap-analysis",
+      "priceUsdc": 8,
+      "target": "public GitHub repository",
+      "orderUrl": "https://dam-tale-share-dryer.trycloudflare.com/v1/orders/test-gap-analysis"
+    }
+  ],
+  "browserCheckout": "https://dam-tale-share-dryer.trycloudflare.com/order",
+  "documentation": "https://dam-tale-share-dryer.trycloudflare.com/docs",
+  "health": "https://dam-tale-share-dryer.trycloudflare.com/health"
+}
