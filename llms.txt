@@ -1,0 +1,19 @@
+# JOHN WICKK
+
+> Automatic evidence-backed analysis for public GitHub repositories, paid through x402 v2 in USDC on Solana.
+
+## Stable resources
+
+- Storefront: https://eliteprogrammer111.github.io/john-wickk-live/
+- Current backend pointer: https://eliteprogrammer111.github.io/john-wickk-live/live.json
+- Machine-readable services: https://eliteprogrammer111.github.io/john-wickk-live/services.json
+
+## Services
+
+- Bounty qualification: hard-gate decision, listing evidence, payout/competition signals, and recommended action.
+- Repository triage: repository map, structural health signals, material risks, and next action.
+- Test-gap analysis: static test/source signals and a prioritized implementation plan.
+
+Valid paid orders are executed automatically. The settlement response returns a private receipt URL used to retrieve status and delivery. Do not publish that receipt URL.
+
+No bounty win, payout, financial return, or runtime coverage result is guaranteed. The automated worker does not execute untrusted repository code.
