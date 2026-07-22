@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://risks-eva-website-desirable.trycloudflare.com",
+  "liveBackend": "https://entries-exploring-services-footwear.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://risks-eva-website-desirable.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://entries-exploring-services-footwear.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://risks-eva-website-desirable.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://entries-exploring-services-footwear.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://risks-eva-website-desirable.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://entries-exploring-services-footwear.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://risks-eva-website-desirable.trycloudflare.com/order",
-  "documentation": "https://risks-eva-website-desirable.trycloudflare.com/docs",
-  "health": "https://risks-eva-website-desirable.trycloudflare.com/health"
+  "browserCheckout": "https://entries-exploring-services-footwear.trycloudflare.com/order",
+  "documentation": "https://entries-exploring-services-footwear.trycloudflare.com/docs",
+  "health": "https://entries-exploring-services-footwear.trycloudflare.com/health"
 }
