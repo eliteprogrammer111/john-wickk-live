@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://acquire-lodging-carry-ministers.trycloudflare.com",
+  "liveBackend": "https://aircraft-buses-athens-drilling.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://acquire-lodging-carry-ministers.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://aircraft-buses-athens-drilling.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://acquire-lodging-carry-ministers.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://aircraft-buses-athens-drilling.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://acquire-lodging-carry-ministers.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://aircraft-buses-athens-drilling.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://acquire-lodging-carry-ministers.trycloudflare.com/order",
-  "documentation": "https://acquire-lodging-carry-ministers.trycloudflare.com/docs",
-  "health": "https://acquire-lodging-carry-ministers.trycloudflare.com/health"
+  "browserCheckout": "https://aircraft-buses-athens-drilling.trycloudflare.com/order",
+  "documentation": "https://aircraft-buses-athens-drilling.trycloudflare.com/docs",
+  "health": "https://aircraft-buses-athens-drilling.trycloudflare.com/health"
 }
