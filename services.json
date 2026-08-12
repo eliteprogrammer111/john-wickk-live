@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://origins-memorabilia-based-incidents.trycloudflare.com",
+  "liveBackend": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://origins-memorabilia-based-incidents.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://origins-memorabilia-based-incidents.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://origins-memorabilia-based-incidents.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://origins-memorabilia-based-incidents.trycloudflare.com/order",
-  "documentation": "https://origins-memorabilia-based-incidents.trycloudflare.com/docs",
-  "health": "https://origins-memorabilia-based-incidents.trycloudflare.com/health"
+  "browserCheckout": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/order",
+  "documentation": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/docs",
+  "health": "https://negotiations-authentication-distinguished-arrangement.trycloudflare.com/health"
 }
