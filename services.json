@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://junior-mitchell-corporations-observer.trycloudflare.com",
+  "liveBackend": "https://spotlight-skins-corporate-speeches.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://junior-mitchell-corporations-observer.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://spotlight-skins-corporate-speeches.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://junior-mitchell-corporations-observer.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://spotlight-skins-corporate-speeches.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://junior-mitchell-corporations-observer.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://spotlight-skins-corporate-speeches.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://junior-mitchell-corporations-observer.trycloudflare.com/order",
-  "documentation": "https://junior-mitchell-corporations-observer.trycloudflare.com/docs",
-  "health": "https://junior-mitchell-corporations-observer.trycloudflare.com/health"
+  "browserCheckout": "https://spotlight-skins-corporate-speeches.trycloudflare.com/order",
+  "documentation": "https://spotlight-skins-corporate-speeches.trycloudflare.com/docs",
+  "health": "https://spotlight-skins-corporate-speeches.trycloudflare.com/health"
 }
