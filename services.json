@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://hands-gradually-cups-magnitude.trycloudflare.com",
+  "liveBackend": "https://valentine-september-arrow-scope.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://hands-gradually-cups-magnitude.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://valentine-september-arrow-scope.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://hands-gradually-cups-magnitude.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://valentine-september-arrow-scope.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://hands-gradually-cups-magnitude.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://valentine-september-arrow-scope.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://hands-gradually-cups-magnitude.trycloudflare.com/order",
-  "documentation": "https://hands-gradually-cups-magnitude.trycloudflare.com/docs",
-  "health": "https://hands-gradually-cups-magnitude.trycloudflare.com/health"
+  "browserCheckout": "https://valentine-september-arrow-scope.trycloudflare.com/order",
+  "documentation": "https://valentine-september-arrow-scope.trycloudflare.com/docs",
+  "health": "https://valentine-september-arrow-scope.trycloudflare.com/health"
 }
