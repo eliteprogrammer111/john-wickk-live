@@ -1,7 +1,7 @@
 {
   "name": "JOHN WICKK",
   "stableUrl": "https://eliteprogrammer111.github.io/john-wickk-live/",
-  "liveBackend": "https://shaft-griffin-cuts-passenger.trycloudflare.com",
+  "liveBackend": "https://glow-drain-programme-infrared.trycloudflare.com",
   "protocol": "x402-v2",
   "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
   "asset": "USDC",
@@ -11,22 +11,22 @@
       "id": "bounty-qualification",
       "priceUsdc": 2,
       "target": "public GitHub issue or pull request",
-      "orderUrl": "https://shaft-griffin-cuts-passenger.trycloudflare.com/v1/orders/bounty-qualification"
+      "orderUrl": "https://glow-drain-programme-infrared.trycloudflare.com/v1/orders/bounty-qualification"
     },
     {
       "id": "repository-triage",
       "priceUsdc": 5,
       "target": "public GitHub repository",
-      "orderUrl": "https://shaft-griffin-cuts-passenger.trycloudflare.com/v1/orders/repository-triage"
+      "orderUrl": "https://glow-drain-programme-infrared.trycloudflare.com/v1/orders/repository-triage"
     },
     {
       "id": "test-gap-analysis",
       "priceUsdc": 8,
       "target": "public GitHub repository",
-      "orderUrl": "https://shaft-griffin-cuts-passenger.trycloudflare.com/v1/orders/test-gap-analysis"
+      "orderUrl": "https://glow-drain-programme-infrared.trycloudflare.com/v1/orders/test-gap-analysis"
     }
   ],
-  "browserCheckout": "https://shaft-griffin-cuts-passenger.trycloudflare.com/order",
-  "documentation": "https://shaft-griffin-cuts-passenger.trycloudflare.com/docs",
-  "health": "https://shaft-griffin-cuts-passenger.trycloudflare.com/health"
+  "browserCheckout": "https://glow-drain-programme-infrared.trycloudflare.com/order",
+  "documentation": "https://glow-drain-programme-infrared.trycloudflare.com/docs",
+  "health": "https://glow-drain-programme-infrared.trycloudflare.com/health"
 }
